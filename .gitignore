@@ -3,7 +3,7 @@
 node_modules
 
 # build artifacts
-public
+docs
 
 # secrets and errors
 .env

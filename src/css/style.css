@@ -5,13 +5,13 @@
 }
 
 /* Layout */
-
 body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
   padding: 5vh clamp(1rem, 5vw, 3rem) 1rem;
-  font-family: system-ui, sans-serif;
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-weight: 300;
   line-height: 1.5;
   color: #222;
 }
@@ -37,7 +37,7 @@ nav ul li {
   padding: 0.5rem 1rem;
 }
 
-nav [aria-current="page"] {
+nav [aria-current='page'] {
   font-weight: bold;
 }
 
@@ -87,7 +87,6 @@ a:focus {
 }
 
 /* Media */
-
 article img {
   display: block;
   width: 100%;
@@ -106,7 +105,7 @@ article img {
 
 /* Supporting Content */
 
-code:not([class*="language"]) {
+code:not([class*='language']) {
   font-family: Consolas, Monaco, Andale Mono, Ubuntu Mono, monospace;
   font-size: 1.75ex;
   color: #444;
