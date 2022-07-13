@@ -23,7 +23,8 @@
     "url": "https://github.com/karateschooljohnsmit/karateschooljohnsmit.nl/issues"
   },
   "dependencies": {
-    "@11ty/eleventy": "^1.0.1"
+    "@11ty/eleventy": "^1.0.1",
+    "prettier": "^2.7.1"
   },
   "homepage": "https://github.com/karateschooljohnsmit/karateschooljohnsmit.nl#readme",
   "directories": {

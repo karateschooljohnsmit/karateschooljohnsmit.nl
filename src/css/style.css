@@ -11,7 +11,6 @@ body {
   min-height: 100vh;
   padding: 5vh clamp(1rem, 5vw, 3rem) 1rem;
   font-family: 'IBM Plex Sans', sans-serif;
-  font-weight: 300;
   line-height: 1.5;
   color: #222;
 }
@@ -105,19 +104,13 @@ article img {
 
 /* Supporting Content */
 
-code:not([class*='language']) {
-  font-family: Consolas, Monaco, Andale Mono, Ubuntu Mono, monospace;
-  font-size: 1.75ex;
-  color: #444;
-  background-color: rgba(0, 0, 0, 0.1);
-  padding-right: 0.15em;
-  padding-left: 0.15em;
-}
-
 blockquote {
-  margin: 2rem 0;
-  padding: 0.5em 1rem;
-  border-left: 3px solid rgba(0, 0, 0, 0.35);
-  background-color: rgba(0, 0, 0, 0.05);
-  border-radius: 0 0.25rem 0.25rem 0;
+  font-family: 'IM Fell English', serif;
+  font-size: 1.5rem;
+  color: red;
+  margin: 3rem 0;
+  padding: 2rem;
+  /* border-left: 3px solid rgba(0, 0, 0, 0.35); */
+  /* background-color: rgba(0, 0, 0, 0.05); */
+  /* border-radius: 0 0.25rem 0.25rem 0; */
 }

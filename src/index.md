@@ -5,7 +5,13 @@ layout: page.njk
 
 ## Heading 2
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vestibulum interdum neque, a aliquet nulla commodo nec. Maecenas commodo metus et fringilla hendrerit. Fusce in ultricies nulla, nec ultrices nunc. Morbi sit amet libero in metus bibendum pellentesque. Fusce non ex rutrum orci congue condimentum vel at magna. Integer dapibus nulla venenatis posuere cursus. Etiam vitae sapien tincidunt, tempor augue euismod, ultricies orci. Nam a ultrices tortor. Mauris non lacinia nisl. In bibendum, velit sed elementum sollicitudin, risus massa cursus metus, non rhoncus dui massa vitae sapien. Maecenas at nibh quis tellus pretium ullamcorper non non magna.
+![Zeetraining](./img/zeetraining.jpg)
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vestibulum interdum neque, a aliquet nulla commodo nec. Maecenas commodo metus et fringilla hendrerit. Fusce in ultricies nulla, nec ultrices nunc. Morbi sit amet libero in metus bibendum pellentesque. Fusce non ex rutrum orci congue condimentum vel at magna. Integer dapibus nulla venenatis posuere cursus.
+
+Etiam vitae sapien tincidunt, tempor augue euismod, ultricies orci. Nam a ultrices tortor. Mauris non lacinia nisl. In bibendum, velit sed elementum sollicitudin, risus massa cursus metus, non rhoncus dui massa vitae sapien. Maecenas at nibh quis tellus pretium ullamcorper non non magna.
+
+> In de loop van de tijd heeft het karate een aantal belangrijke ontwikkelingen doorgemaakt, die de beoefenaar kunnen helpen om boven zichzelf uit te stijgen. Door fysieke en mentale groei, zelfvertrouwen en zelfdiscipline, nemen en geven, wordt transformatie mogelijk. - Ernst van der Zee Shihan
 
 ### Heading 3
 
