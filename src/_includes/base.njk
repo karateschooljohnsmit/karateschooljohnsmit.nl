@@ -11,14 +11,18 @@
   <link rel="stylesheet" href="{{ '/css/style.css' | url }}">
 </head>
 <body>
+
+  <header>
+    <h1><span>Karateschool</span> <span>John Smit</span></h1>
+    <img src="/img/mon-johnsmit-nl.svg" alt="Logo Karateschool John Smit">
+  </header>
+
   {% include "nav.njk" %}
 
   {{ content | safe }}
 
   <footer>
-    <div>
-      <p>&copy; {% year %} {{ meta.siteName }}{% if meta.authorName %} • {{ meta.authorName }}{% endif %}</p>
-    </div>
+    <p>John Smit Sensei - <a href="tel:+0612345678">0612345678</a> - <a href="mailto:info@karateschooljohnsmit.nl">info@karateschooljohnsmit.nl</a></p>
   </footer>
 
 </body>
