@@ -19,7 +19,6 @@ body {
 
   background-image: url('../img/rice-paper.png');
   background-size: 50%;
-  mix-blend-mode: overlay;
 }
 body > header,
 /* body > header h1, */
