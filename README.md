@@ -1,6 +1,6 @@
 # Karateschool John Smit
 
-![Screenshot]()
+![Zeetraining](./src/img/zeetraining.jpg)
 
 > It's a website for our dutch karate school owned by John Smit Sensei, based in Enkhuizen.
 
