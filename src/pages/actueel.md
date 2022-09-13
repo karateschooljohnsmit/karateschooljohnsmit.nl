@@ -1,5 +1,5 @@
 ---
-title: Nieuws
+title: Actueel
 ---
 
 ## 18 juli: Laatste training!
