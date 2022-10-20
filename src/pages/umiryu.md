@@ -10,6 +10,8 @@ Karate is een effectieve vechtsport. Het draait vooral om het trainen van de gee
 
 ## Ernst van der Zee Shihan
 
+![Ernst van der Zee Shihan](../img/ernstvanderzee-shihan.jpg)
+
 In 2022 is Ernst van der Zee Shihan al 57 jaar actief in de budo. Zijn training begon in 1965 met Kyokushinkai karate bij Martin Gravestijn Shihan en bij John Bluming Shihan. In 1968 startte hij met Itosu ryu karatedo, Jodo van de Shindo Muso Ryu en Iaido.
 
 Ernst van der Zee Shihan verdiepte zich van toen af in verschillende andere systemen om verwantschappen en raakvlakken te doorgronden. Zo verdiepte hij zich in onder andere: Goju Ryu, Pencak Silat, Hapkido, Tai Chi Chuan, Wadokai en Shotokan. Bepaalde elementen uit deze vechtkunsten zijn te herkennen in Umi Ryu Karatedo.
