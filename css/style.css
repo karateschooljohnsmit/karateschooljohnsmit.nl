@@ -115,6 +115,8 @@ article img {
   min-height: 20rem;
   max-height: 40vh;
   object-fit: cover;
+  object-position: center top;
+  border: 0.2em solid white;
   margin: 2rem auto;
   box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
   transform: rotate(-0.5deg);
