@@ -174,3 +174,7 @@ body > footer > p {
 body > footer a {
   color: white;
 }
+
+article > ul > li {
+  margin: 0;
+}
