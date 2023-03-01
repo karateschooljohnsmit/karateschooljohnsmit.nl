@@ -2,7 +2,14 @@
 title: Dojo
 ---
 
-Info over onze dojo, trainingslocatie(s) en lestijden (met links naar google maps).
+## Trainingslocaties
+
+Op maandag trainen we in gymzaal [de Wiekslag](https://goo.gl/maps/PvfAakHLZLiTecWdA) aan de Kievitstraat 54 te Enkhuizen. De lestijden zijn als volgt:
+
+- Jeugd 6-8 jaar: 16.00 - 17.00
+- Jeugd 8-11 jaar: 17.00 - 18.00
+- Jeugd 11-15 jaar: 18.00 - 19.00
+- Volwassenen: 19.30 - 20.45
 
 ## John Smit Sensei
 
