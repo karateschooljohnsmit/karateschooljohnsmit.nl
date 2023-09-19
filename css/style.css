@@ -1,0 +1,180 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+:root {
+  font-size: min(calc(1em + 1vw), 4em);
+}
+
+body {
+  min-height: 100vh;
+  padding: 5vh clamp(1rem, 5vw, 3rem) 1rem;
+
+  font-family: 'IBM Plex Sans', sans-serif;
+  text-rendering: optimizeLegibility;
+  font-feature-settings: 'kern' 1, 'liga' on, 'dlig' on;
+  line-height: 1.5;
+  color: black;
+
+  background-image: url('/img/rice-paper.png');
+  background-size: 50%;
+
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+}
+
+body > * {
+  --layout-spacing: max(8vh, 3em);
+  --max-width: 38rem;
+  width: min(100%, var(--max-width));
+  margin: 0 auto;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+}
+
+header > h1 {
+  display: none;
+}
+
+header img {
+  width: 38vw;
+}
+
+nav {
+  margin-top: var(--layout-spacing);
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  flex: row wrap;
+  justify-content: space-between;
+  padding: 0;
+  gap: 0.5em;
+}
+
+nav [aria-current='page'] {
+  font-weight: bold;
+}
+
+main {
+  padding: 0 calc(var(--layout-spacing) / 2);
+}
+
+main,
+main > * + * {
+  margin-top: var(--layout-spacing);
+}
+
+article > p {
+  gap: 1rem;
+}
+
+p > img {
+  column-span: all;
+}
+
+article * + * {
+  margin-top: 1.5em;
+}
+
+h1 {
+  font-size: 2.5rem;
+}
+
+:is(h1, h2, h3) {
+  line-height: 1.2;
+}
+
+:is(h1, h2) {
+  max-width: 40ch;
+}
+
+:is(h2, h3):not(:first-child) {
+  margin-top: 2em;
+}
+
+a {
+  color: black;
+  text-underline-offset: 0.08em;
+}
+
+a:focus {
+  outline: 1px solid currentColor;
+  outline-offset: 0.2em;
+}
+
+article img {
+  display: block;
+  width: 100%;
+  min-height: 20rem;
+  max-height: 40vh;
+  object-fit: cover;
+  object-position: center top;
+  border: 0.2em solid white;
+  margin: 2rem auto;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  transform: rotate(-0.5deg);
+}
+
+@supports (aspect-ratio: 1) {
+  article img {
+    max-height: unset;
+    aspect-ratio: 3/2;
+  }
+}
+
+blockquote {
+  font-family: 'IM Fell English', serif;
+  font-size: 1.2rem;
+  color: red;
+  padding: 0 2rem;
+}
+
+blockquote cite {
+  display: block;
+  font-style: normal;
+  font-size: 0.8em;
+  color: black;
+}
+
+blockquote cite::before {
+  content: '—';
+}
+
+body > footer {
+  margin-top: var(--layout-spacing);
+  padding: 0 2rem;
+  background-image: url('/img/ink-ltr.png');
+  background-position: bottom center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  color: white;
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+@supports (aspect-ratio: 1) {
+  body > footer {
+    aspect-ratio: 3.6 / 1;
+  }
+}
+
+body > footer > p {
+  text-align: center;
+}
+
+body > footer a {
+  color: white;
+}
+
+article > ul > li {
+  margin: 0;
+}
