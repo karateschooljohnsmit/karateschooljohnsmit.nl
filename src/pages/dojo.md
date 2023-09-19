@@ -25,4 +25,6 @@ John is daarnaast Rots en water coach en bevoegd om training op scholen aan te b
 
 Dirk Jan Post is sinds 2007 leerling van John Smit Sensei en Ernst van der Zee Shihan. In het jaar 2018 slaagde hij voor _Shodan_ en is nu volop aan het trainen voor zijn 2e dan examen waar hij in 2023 voor hoopt te slagen.
 
-Dirk-Jan is jongerenwerker in Enkhuizen en heeft gestudeerd aan de Academie Lichamelijke Opvoeding (ALO) waar hij in 2015 zijn diploma behaalde. In 2011 werd hij vrijwilliger en sinds 2018 is hij coördinator bij het organiseren van Huttendorp in Enkhuizen, deze werkzaamheden doe ik vanuit mijn functie als jongerenwerker.
+> Als er één ding is wat ik in 16 jaar geleerd heb, is het dat Karate voor mij meer is dan alleen sport. Het is een manier van leven, van nooit op geven, het hoofd geheven. Met de juiste inzet en geduld ontstaat als vanzelf de welbekend innerlijke rust en uitstraling van de ware karateka. Respect voor jezelf evenals de wereld om je heen, in vrede met wat is en komen gaat. Zelfverzekerd treed je de wereld tegemoet, wetende wat je kunt zonder de behoefte jezelf te bewijzen. Altijd en overal verbonden met al diegenen waarmee je de pijn, ongemakken en bijzondere momenten die erbij horen hebt gedeeld. (Osearu Shinobu "oesh") <cite>Dirk-Jan Post Sempai</cite>
+
+
