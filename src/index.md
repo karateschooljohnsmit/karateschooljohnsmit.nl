@@ -11,4 +11,4 @@ Karate is een effectieve vechtsport. Door beoefening van karate kunnen eigenscha
 
 Door beoefening van karate wordt je zelfverzekerder, fitter en energieker, kortom iemand die karate beoefent zit niet alleen strakker, maar ook beter in zijn vel. Met andere woorden, lichaam en geest zijn in balans.
 
-> In de loop van de tijd heeft het karate een aantal belangrijke ontwikkelingen doorgemaakt, die de beoefenaar kunnen helpen om boven zichzelf uit te stijgen. Door fysieke en mentale groei, zelfvertrouwen en zelfdiscipline, nemen en geven, wordt transformatie mogelijk. <cite>John Smit Sensei</cite>
+> In de loop van de tijd heeft het karate een aantal belangrijke ontwikkelingen doorgemaakt die de beoefenaar kunnen helpen om boven zichzelf uit te stijgen. Door fysieke en mentale groei, zelfvertrouwen en zelfdiscipline, nemen en geven, wordt transformatie mogelijk. <cite>John Smit Sensei</cite>

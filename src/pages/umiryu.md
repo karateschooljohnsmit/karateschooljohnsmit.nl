@@ -28,4 +28,4 @@ Ernst van der Zee Shihan verdiepte zich gedurende zijn carrrière in verschillen
 
 Ernst van der Zee Shihan heeft een indrukwekkende loopbaan in de Budo. Hij gaf 25 jaar training aan de politie en heeft ruim 3 jaar gewerkt voor het opleidingscentrum Mobiele Eenheden. Tijdens zijn loopbaan maakte hij kennis met diverse grote Japanse leermeesters. Vanaf 1984 bezoekt hij met regelmaat zijn leermeesters in Japan.
 
-De [Umi Ryu Honbu Dojo](https://umiryu.nl/) in Grootebroek, waar Shihan nog steeds les geeft, bestaat sinds 1977. Inmiddels is Umi Ryu Karatedo uitgegroeid tot een school met vele leden en zijn er zeven Shibu Dojo's waaronder Karateschool John Smit.
+De [Umi Ryu Honbu Dojo](https://umiryu.nl/) in Grootebroek, waar Shihan nog steeds les geeft, bestaat sinds 1977. Inmiddels is Umi Ryu Karatedo uitgegroeid tot een school met vele leden en zijn er naast de Honbu Dojo zes Shibu Dojo's waaronder Karateschool John Smit.

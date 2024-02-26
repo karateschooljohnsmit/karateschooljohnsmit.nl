@@ -9,6 +9,7 @@
 
 body {
   min-height: 100vh;
+  min-width: 350px;
   padding: 5vh clamp(1rem, 5vw, 3rem) 1rem;
 
   font-family: 'IBM Plex Sans', sans-serif;
@@ -46,7 +47,13 @@ header img {
 }
 
 nav {
-  margin-top: var(--layout-spacing);
+  margin-top: calc(var(--layout-spacing) / 2);
+}
+
+@media (min-width: 33rem) {
+  nav {
+    margin-top: var(--layout-spacing);
+  }
 }
 
 nav ul {
@@ -62,8 +69,10 @@ nav [aria-current='page'] {
   font-weight: bold;
 }
 
-main {
-  padding: 0 calc(var(--layout-spacing) / 2);
+@media (min-width: 33rem) {
+  main {
+    padding: 0 calc(var(--layout-spacing) / 2);
+  }
 }
 
 main,
@@ -87,11 +96,14 @@ h1 {
   font-size: 2.5rem;
 }
 
-:is(h1, h2, h3) {
+h1,
+h2,
+h3 {
   line-height: 1.2;
 }
 
-:is(h1, h2) {
+h1,
+h2 {
   max-width: 40ch;
 }
 
@@ -159,6 +171,12 @@ body > footer {
   flex-flow: column wrap;
   justify-content: center;
   align-items: center;
+}
+
+@media (max-width: 450px) {
+  body > footer {
+    font-size: 0.8rem;
+  }
 }
 
 @supports (aspect-ratio: 1) {

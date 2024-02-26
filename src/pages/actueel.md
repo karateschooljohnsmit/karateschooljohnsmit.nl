@@ -4,7 +4,7 @@ title: Actueel
 
 ## Weekendtraining 6 en 7 juli 2024
 
-In het weekend van 6 juli wordt er een tweedaagse weekendtraining georganiseerd. De training vindt plaats in Wieringerwerf waar we ook overnachten. Je kunt je binnenkort opgeven, het inschrijfformulier krijg je in de dojo.
+In het weekend van 6 juli wordt er een tweedaagse weekendtraining georganiseerd. De training vindt plaats in Wieringerwerf waar we ook overnachten. Je kunt je binnenkort opgeven. Het inschrijfformulier is ter zijner tijd in de dojo beschikbaar.
 
 ## Wintertraining zondag 21 januari 2024
 
