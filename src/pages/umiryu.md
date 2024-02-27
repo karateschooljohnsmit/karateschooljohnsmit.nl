@@ -8,7 +8,7 @@ title: Umi Ryu
 
 [Umi Ryu Karatedo](https://umiryu.nl/) is een karatestijl waarin verschillende vechtsporten zijn gecombineerd. Je herkent er Kyokushinkai en Itosu Ryu karate in, maar ook Jiu-Jitsu en verschillende soorten zwaard- en stokvechten: Iaido, Jodo, Bo-Jitsu, Hanbo-Jitsu, Tanjo-Jitsu, Keebo-Jitsu.
 
-Karate is een effectieve vechtkunst en is gericht op het trainen van de geest en het versterken van het lichaam. Door het trainen van Karate verbeteren uw kwaliteiten. Het gaat dan vooral om ontwikkeling van Karakter, Eerlijkheid, Doorzettingsvermogen, Zelfbeheersing en Etiquette. Het uiteindelijke doel van karate is om een beter mens te worden. Dat bereik je dat door hard te trainen.
+Karate is een effectieve vechtkunst en is gericht op het trainen van de geest en het versterken van het lichaam. Door het trainen van Karate verbeteren uw kwaliteiten. Het gaat dan vooral om ontwikkeling van Karakter, Eerlijkheid, Doorzettingsvermogen, Zelfbeheersing en Etiquette. Het uiteindelijke doel van karate is om een beter mens te worden. Dat bereik je door hard te trainen.
 
 > Scherp je zintuigen, wordt bewuster… leer de technieken die je leven kunnen redden! <cite>Ernst van der Zee Shihan</cite>
 
