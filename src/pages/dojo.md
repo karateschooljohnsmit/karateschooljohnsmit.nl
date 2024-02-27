@@ -31,4 +31,4 @@ John is daarnaast Rots en water coach en bevoegd om deze training op scholen aan
 
 Dirk Jan Post is sinds 2007 leerling van John Smit Sensei en Ernst van der Zee Shihan. In het jaar 2018 slaagde hij voor _Shodan_ en in 2023 voor de 2e dan.
 
-> Karate is voor mij meer is dan alleen sport. Het is een manier van leven, van nooit op geven, het hoofd geheven. Zelfverzekerd treed je de wereld tegemoet zonder de behoefte jezelf te bewijzen. <cite>Dirk-Jan Post Sempai</cite>
+> Karate is voor mij meer dan alleen sport. Het is een manier van leven, van nooit op geven, het hoofd geheven. Zelfverzekerd treed je de wereld tegemoet zonder de behoefte jezelf te bewijzen. <cite>Dirk-Jan Post Sempai</cite>
