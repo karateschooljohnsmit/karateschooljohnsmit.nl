@@ -3,7 +3,7 @@ title: Karateschool John Smit
 layout: page.njk
 ---
 
-## De karatschool van John Smit in Enkhuizen
+## De karateschool van John Smit in Enkhuizen
 
 ### Umi Ryu Karate is goed voor lichaam en geest
 
