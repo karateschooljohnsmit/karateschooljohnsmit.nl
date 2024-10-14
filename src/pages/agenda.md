@@ -1,5 +1,5 @@
 ---
-title: Actueel
+title: Agenda
 ---
 
 ## Weekendtraining 6 en 7 juli 2024
