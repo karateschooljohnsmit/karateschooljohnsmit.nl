@@ -13,8 +13,7 @@ This project is based on 11ty using Stephanie Eckles' [5t3ph/smol-11ty-starter](
 2. Once cloned, run `npm install` to install 11ty. Then run `npm start` to run 11ty in `serve` mode which will create a local server including hot-reload.
 
 3. All content files are in the `src` folder. Edit `index.md` to change the home page, and create or change content within `src/pages` to change the other pages using markdown. Please put all images in the `src/img` folder.
-   
-5. If you know what you're doing and need to change the layout for this website look for our CSS files in the `src/css` folder and if you need to change the templates for pages or the menu structure you can take a look at the files in the `src/_data` and `src/_includes` folders.
+4. If you know what you're doing and need to change the layout for this website look for our CSS files in the `src/css` folder and if you need to change the templates for pages or the menu structure you can take a look at the files in the `src/_data` and `src/_includes` folders.
 
 ### Learn More About Eleventy
 
