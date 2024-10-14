@@ -8,13 +8,21 @@ title: Umi Ryu
 
 [Umi Ryu Karatedo](https://umiryu.nl/) is een karatestijl waarin verschillende vechtsporten zijn gecombineerd. Je herkent er Kyokushinkai en Itosu Ryu karate in, maar ook Jiu-Jitsu en verschillende soorten zwaard- en stokvechten: Iaido, Jodo, Bo-Jitsu, Hanbo-Jitsu, Tanjo-Jitsu, Keebo-Jitsu.
 
-Karate is een effectieve vechtkunst en is gericht op het trainen van de geest en het versterken van het lichaam. Door het trainen van Karate verbeteren uw kwaliteiten. Het gaat dan vooral om ontwikkeling van Karakter, Eerlijkheid, Doorzettingsvermogen, Zelfbeheersing en Etiquette. Het uiteindelijke doel van karate is om een beter mens te worden. Dat bereik je door hard te trainen.
+Karate is een effectieve vechtkunst en is gericht op het trainen van de geest en het versterken van het lichaam. Er wordt aandacht besteed aan de ontwikkeling van:
+
+- Het ontwikkelen van karakter
+- Eerlijkheid
+- Doorzettingsvermogen
+- Zelfbeheersing
+- Etiquette
+
+Het uiteindelijke doel van karate is om een beter mens te worden. Dat bereik je door hard te trainen.
 
 > Scherp je zintuigen, wordt bewuster… leer de technieken die je leven kunnen redden! <cite>Ernst van der Zee Shihan</cite>
 
-Door fysieke training versterkt u uw lichaam. U ontwikkelt betere reflexen, balans en coordinatie en prestaties in alle fysieke activiteiten gaan vooruit. U ervaart meer kracht, uithoudingsvermogen en lenigheid en blijft door intensieve kracht en cardiotraining gemakkelijker op gewicht.
+Door fysieke training versterkt het lichaam. Je ontwikkelt betere reflexen, balans, coördinatie en prestaties in alle fysieke activiteiten. Je ervaart meer kracht, uithoudingsvermogen en lenigheid en blijft door intensieve kracht en cardiotraining gemakkelijker op gewicht.
 
-Door mentale training verbeterd uw concentratievermogen voor werk en studie. U ervaart minder stress en ontwikkelt een beter vermogen tot ontspannen. U ontwikkelt vertrouwen in het omgaan met confrontaties omdat u zichzelf en uw familie kunt verdedigen. Door training krijgt u een positieve houding tegenover het leven door zelfvertrouwen en zelfdiscipline. Dit leidt tot eigenwaarde, een positieve visie op het leven en respect voor de mensen om u heen.
+Door mentale training verbetert uw concentratievermogen in het dagelijks leven. Je ervaart minder stress en ontwikkelt een beter vermogen om te ontspannen. Door training krijgt u een positieve houding tegenover het leven door zelfvertrouwen en zelfdiscipline. Dit leidt tot eigenwaarde, een positieve visie op het leven en respect voor de mensen om u heen.
 
 ## Ernst van der Zee Shihan
 

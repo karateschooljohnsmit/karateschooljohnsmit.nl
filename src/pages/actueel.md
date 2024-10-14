@@ -8,4 +8,4 @@ In het weekend van 6 juli wordt er een tweedaagse weekendtraining georganiseerd.
 
 ## Wintertraining zondag 21 januari 2024
 
-Zondag 21 januari is er wintertraining in Lelystad. Als het goed is heb je je al opgegeven, mocht je dat nog niet gedaan hebben en je wilt wel mee stuur Sensei dan even een berichtje.
+Zondag 21 januari is er wintertraining in Lelystad. Als het goed is heb je je al opgegeven, mocht je dat nog niet gedaan hebben en je wilt wel mee stuur Sensei dan even een berichtje via Whatsapp.
