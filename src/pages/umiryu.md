@@ -10,7 +10,7 @@ title: Umi Ryu
 
 Karate is een effectieve vechtkunst en is gericht op het trainen van de geest en het versterken van het lichaam. Er wordt aandacht besteed aan de ontwikkeling van:
 
-- Het ontwikkelen van karakter
+- Karakter
 - Eerlijkheid
 - Doorzettingsvermogen
 - Zelfbeheersing
