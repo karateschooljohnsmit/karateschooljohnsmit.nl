@@ -4,6 +4,8 @@ title: Agenda
 
 ## Agenda
 
+Hier staan bijzondere trainingen en evenementen, voor reguliere lesstijden zie [dojo](/dojo/).
+
 ![Jodo](https://github.com/user-attachments/assets/193a25fa-83c6-4c78-ae67-20218f3979cb)
 
 ### 16 maart Jodo Training
