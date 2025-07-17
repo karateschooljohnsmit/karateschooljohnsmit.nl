@@ -11,7 +11,7 @@ Hier staan bijzondere trainingen en evenementen, voor reguliere lesstijden zie [
 ## Aanstaand
 
 ### Zeetraining Umi Geiko
-Op zondag 31 augustus 20025 organiseren we een training aan het strand in Hargen aan Zee. Alle leden van Umi Ryu dojo Enkhuizen, jeugd en volwassenen, mogen hieraan meedoen. Deze training wordt georganiseerd in samenwerking met dojo Purmerend, Heerhugowaard en Wervershoof. Geef je op met het formulier bij Sensei. 
+Op zondag 31 augustus 20025 organiseren we een training aan het strand in Hargen aan Zee. Alle leden van Umi Ryu dojo Enkhuizen, jeugd en volwassenen, mogen hieraan meedoen. Deze training wordt georganiseerd in samenwerking met dojo Purmerend, Heerhugowaard en Wervershoof. Geef je op met het formulier bij Sensei.   
 Aanvang: 10:00 uur  
 Locatie: Hargen aan Zee
 
