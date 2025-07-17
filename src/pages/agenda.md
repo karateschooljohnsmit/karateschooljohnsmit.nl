@@ -11,8 +11,8 @@ Hier staan bijzondere trainingen en evenementen, voor reguliere lesstijden zie [
 ## Aanstaand
 
 ### Zeetraing
-31 augustus 2025 is er Umi Geiko, Zeetraining in Hargen aan Zee voor alle leden. Geef je op met het formulier bij Sensei.
-Aanvang: volgt
+31 augustus 2025 is er Umi Geiko, Zeetraining in Hargen aan Zee voor alle leden. Geef je op met het formulier bij Sensei.  
+Aanvang: volgt  
 Locatie: Hargen aan Zee
 
 ## Volbracht
