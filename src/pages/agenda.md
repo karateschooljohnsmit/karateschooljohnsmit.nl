@@ -20,7 +20,7 @@ Zondag 21 juni organiseren we een zeetraining voor jeugdleden tot 15 jaar.
 Het weekend van 29/30 augustus organiseren we een weekendtraining voor leden vanaf 15 jaar.
 
 ### Weekendtraining Gasshuku jeugd
-Het weekend van 29/30 augustus organiseren we een weekendtraining voor jeugdleden tot 15 jaar.
+Zondag 30 augustus organiseren we een weekendtraining voor jeugdleden tot 15 jaar.
 
 ### Nachttraining Yakan Geiko
 Zaterdag 26 september organiseren we een nachttraining voor leden vanaf 15 jaar.
