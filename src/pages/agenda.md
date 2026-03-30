@@ -31,13 +31,3 @@ Zaterdag 26 september organiseren we een nachttraining voor leden vanaf 15 jaar.
 Op zondag 31 augustus 2025 organiseren we een training aan het strand in Hargen aan Zee. Alle leden van Umi Ryu dojo Enkhuizen, jeugd en volwassenen, mogen hieraan meedoen. Deze training wordt georganiseerd in samenwerking met dojo Purmerend, Heerhugowaard en Wervershoof. Geef je op met het formulier bij Sensei.   
 Aanvang: 10:00 uur  
 Locatie: Hargen aan Zee
-
-### ~~16 maart~~ Jodo Training: wordt verplaatst!
-Zondag 16 maart is er een jodo training  
-Aanvang: 9:30 uur  
-Locatie: de Wiekslag
-
-### 26 januari Jodo Training
-Zondag 26 januari is er een jodo training  
-Aanvang: 9:30 uur  
-Locatie: de Wiekslag
